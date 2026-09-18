@@ -1,0 +1,37 @@
+[KURGUSAL / DUMMY BELGE — GERÇEK EPDK METNİ DEĞİLDİR]
+Bu belge, RAG uygulaması test senaryoları için üretilmiş kurgusal bir yönetmelik
+örneğidir. Gerçek mevzuat hükmü taşımaz.
+
+ÖRNEK YÖNETMELİK NO: 2024/DUMMY-02
+KONU: Dağıtım Şirketlerinin Şebeke Yatırımlarının Amortisman ve Düzenlenmiş Varlık
+Tabanına (DVT) Dahil Edilmesine İlişkin Örnek Yönetmelik
+
+MADDE 1 — Amaç
+(1) Bu örnek Yönetmeliğin amacı, dağıtım şirketlerince gerçekleştirilen şebeke
+yatırımlarının (253 - Tesis, Makine ve Cihazlar hesabı ve alt kırılımları) düzenlenmiş
+varlık tabanına dahil edilme usulünü kurgusal biçimde düzenlemektir.
+
+MADDE 2 — Amortisman Süreleri (Örnek/Kurgusal Değerler)
+(1) Aşağıdaki kurgusal faydalı ömür süreleri örnek amaçlıdır:
+   a) Orta Gerilim Şebeke Hatları: 25 yıl,
+   b) Trafo Merkezleri ve Trafolar: 20 yıl,
+   c) Sayaçlar ve Ölçüm Sistemleri: 10 yıl,
+   d) Bilgi İşlem ve SCADA Sistemleri: 5 yıl.
+(2) Birikmiş amortisman (257 hesabı), ilgili sabit kıymetin kurgusal faydalı ömrü
+esas alınarak doğrusal (eşit tutarlı) yöntemle hesaplanır.
+
+MADDE 3 — Düzenlenmiş Varlık Tabanına Giriş Koşulları
+(1) Bir yatırımın örnek DVT hesaplamasına dahil edilebilmesi için:
+   a) Yatırımın işletmeye alınmış olması,
+   b) İlgili yıl yatırım programında yer alması,
+   c) Harcamanın mizanda 253/255 hesap grubunda muhasebeleştirilmiş olması
+   gerekir (kurgusal koşullardır).
+
+MADDE 4 — Raporlama
+(1) Dağıtım şirketleri, yıl sonu itibarıyla 253, 255 ve 257 hesap gruplarının
+(kurgusal) mutabakatını gösteren bir yatırım raporunu Kurula sunar.
+
+MADDE 5 — Yürürlük
+(1) Bu örnek Yönetmelik kurgusal olarak yayımı tarihinde yürürlüğe girer.
+
+[BELGE SONU — KURGUSAL/DUMMY İÇERİK]

@@ -1,0 +1,35 @@
+[KURGUSAL / DUMMY BELGE — GERÇEK EPDK METNİ DEĞİLDİR]
+RAG uygulaması test verisi olarak üretilmiş kurgusal bir genelge örneğidir.
+
+ÖRNEK GENELGE NO: 2024/DUMMY-03
+KONU: Dağıtım Şirketlerinden İstenecek Dönemsel Mali Tabloların Standart Formatına
+İlişkin Örnek Genelge
+
+1. Amaç
+Bu örnek genelge, dağıtım şirketlerinin Kuruma sunacağı mizan, bilanço ve gelir
+tablosu formatlarının kurgusal olarak standardize edilmesini amaçlamaktadır.
+
+2. Kurgusal Raporlama Takvimi
+   - 1. Çeyrek verileri: Nisan ayı sonuna kadar,
+   - 2. Çeyrek verileri: Temmuz ayı sonuna kadar,
+   - 3. Çeyrek verileri: Ekim ayı sonuna kadar,
+   - Yıl sonu (kesin) verileri: takip eden yılın Mart ayı sonuna kadar.
+
+3. Asgari Hesap Kırılımları (Örnek/Kurgusal)
+Dağıtım şirketleri, aşağıdaki asgari hesap kırılımlarını mizanlarında ayrıştırmalıdır
+(kurgusal liste):
+   - 600/602: Dağıtım geliri ve kayıp-kaçak/bağlantı bedeli gelirleri ayrı satırlarda,
+   - 620: Satılan hizmet maliyeti; personel, bakım-onarım ve amortisman alt
+     kırılımlarıyla,
+   - 630/631: Genel yönetim ile pazarlama-satış giderlerinin ayrı izlenmesi,
+   - 660/661: Kısa ve uzun vadeli finansman giderlerinin ayrı raporlanması.
+
+4. Doğrulama
+Kuruma gönderilen mizan toplamlarında borç ve alacak toplamlarının birbirine eşit
+olması ve bilançoda toplam aktifin toplam pasife eşit olması (kurgusal) asgari
+kontrol koşuludur.
+
+5. Yürürlük
+Bu örnek genelge, kurgusal olarak yayımı tarihinde yürürlüğe girer.
+
+[BELGE SONU — KURGUSAL/DUMMY İÇERİK]

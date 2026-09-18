@@ -1,0 +1,55 @@
+[KURGUSAL / DUMMY BELGE — GERÇEK EPDK METNİ DEĞİLDİR]
+Bu belge, RAG (Retrieval-Augmented Generation) uygulamasının test edilmesi amacıyla
+üretilmiş örnek/kurgusal bir mevzuat metnidir. Gerçek bir EPDK tebliğini temsil etmez,
+gerçek şirket veya hesaplama kararlarında referans olarak kullanılmamalıdır.
+
+ÖRNEK TEBLİĞ NO: 2024/DUMMY-01
+KONU: Elektrik Dağıtım Şirketlerinde Kayıp-Kaçak Bedeli Uygulamasına İlişkin Örnek Tebliğ
+
+MADDE 1 — Amaç ve Kapsam
+(1) Bu örnek Tebliğin amacı, dağıtım şirketlerinin yıllık kayıp-kaçak oranlarının
+hesaplanmasına, raporlanmasına ve tüketici faturalarına yansıtılmasına ilişkin
+kurgusal usul ve esasları düzenlemektir.
+(2) Bu Tebliğ, lisans sahibi elektrik dağıtım şirketlerini kapsar.
+
+MADDE 2 — Tanımlar
+(1) Bu Tebliğde geçen;
+   a) Kurul: Örnek Enerji Piyasası Düzenleme Kurulu'nu,
+   b) Dağıtım Şirketi: Bölgesinde elektrik dağıtım faaliyeti yürüten lisans sahibi
+      tüzel kişiyi,
+   c) Kayıp-Kaçak Oranı: Dağıtım şebekesine giren enerji ile faturalanan enerji
+      arasındaki farkın, şebekeye giren enerjiye oranını,
+   ifade eder.
+
+MADDE 3 — Kayıp-Kaçak Hedef Oranları (Örnek/Kurgusal Değerler)
+(1) Dağıtım bölgeleri, kurgusal kayıp-kaçak performans hedefi bakımından üç gruba
+ayrılır:
+   a) A Grubu Bölgeler: Hedef üst sınır %8,
+   b) B Grubu Bölgeler: Hedef üst sınır %12,
+   c) C Grubu Bölgeler: Hedef üst sınır %18.
+(2) Hedef oranın üzerinde gerçekleşen kayıp-kaçak tutarı, ilgili yıl için dağıtım
+şirketinin düzenlenmiş gelir tavanından (kurgusal olarak) %2'ye kadar indirilebilir.
+
+MADDE 4 — Raporlama Yükümlülüğü
+(1) Dağıtım şirketleri, kayıp-kaçak oranlarını (örnek/kurgusal olarak) her yılın
+Mart ayı sonuna kadar Kurula bildirir.
+(2) Bildirimlerde, mizan/bilanço verileriyle tutarlı biçimde hazırlanmış "Diğer
+Gelirler (Kayıp-Kaçak, Bağlantı Bedeli)" hesap grubuna ait tutarların ayrıştırılmış
+dökümü sunulur.
+
+MADDE 5 — Yaptırımlar (Kurgusal)
+(1) Yanlış veya eksik raporlama tespit edilmesi hâlinde, örnek uygulamada dağıtım
+şirketine kurgusal bir idari para cezası uygulanabileceği öngörülmüştür. Bu Tebliğ
+kurgusal olduğundan gerçek bir yaptırım tutarı içermemektedir.
+
+GEÇİCİ MADDE 1 — Yürürlük Geçişi (Örnek)
+(1) Bu örnek Tebliğ hükümleri, kurgusal olarak 01.01.2024 tarihinden itibaren
+geçerli sayılmıştır.
+
+MADDE 6 — Yürürlük
+(1) Bu örnek Tebliğ yayımı tarihinde yürürlüğe girer.
+
+MADDE 7 — Yürütme
+(1) Bu örnek Tebliğ hükümlerini Kurul yürütür.
+
+[BELGE SONU — KURGUSAL/DUMMY İÇERİK]
