@@ -26,8 +26,8 @@ klasöründeki bu dosyalar silinmez; yalnızca pakete alınmaz.
 4. Kendi kayıt anahtarınızı belirleyip kendi kişisel hesabınızı oluşturun.
 5. Demo senaryosunu ve bilinen sınırlamaları birlikte değerlendirin.
 
-Bu teslim kaynak paketi olarak hazırlandı. Yerel Git deposu oluşturuldu;
-uzak depoya veya internete yayın yapılmadı. Gerçek kurum ağında TLS ve güvenlik duvarı kurulumu
+Bu teslim kaynak paketi olarak hazırlandı. Kaynak kodu ve teslim belgeleri
+https://github.com/EralpErboga/finans-rag-v2 adresinde yayımlandı. Uygulama yerel çalışır. Gerçek kurum ağında TLS ve güvenlik duvarı kurulumu
 bu paketin otomatik gerçekleştirdiği bir işlem değildir.
 
 ## Danışmanla netleştirilecek kapsam
@@ -40,4 +40,4 @@ teknik raporda açıkça belirtilmiştir.
 
 ## Hazır sunum ve görsel kılavuz
 
-Teslim paketine 10 slaytlık `docs/teslim/Finans_RAG_v2_Sunum.pptx` ve 8 sayfalık `docs/teslim/Finans_RAG_v2_Ekran_Goruntulu_Kilavuz.pdf` eklendi. Altı gerçek arayüz görüntüsü `docs/ekranlar/` altında bulunur.
+Teslim paketine 14 slaytlık `docs/teslim/Finans_RAG_v2_Sunum.pptx` ve 8 sayfalık `docs/teslim/Finans_RAG_v2_Ekran_Goruntulu_Kilavuz.pdf` eklendi. Altı gerçek arayüz görüntüsü `docs/ekranlar/` altında bulunur.

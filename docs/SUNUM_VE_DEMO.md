@@ -71,4 +71,4 @@ kılavuzu hazır bulundurun. Servis hatasında tekrar tekrar model çalıştırm
 yerine durumu açıklayıp kayıtlı çıktılara geçin. Kayıtlı sonucu canlı üretimmiş
 gibi sunmayın.
 
-Hazır sunum: [10 slaytlık PowerPoint dosyası](teslim/Finans_RAG_v2_Sunum.pptx).
+Hazır sunum: [14 slaytlık PowerPoint dosyası](teslim/Finans_RAG_v2_Sunum.pptx).

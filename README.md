@@ -121,8 +121,3 @@ Yeni makinede kalite ve süreler tekrar ölçülmelidir. Birkaç kabul testinin 
 
 - [PowerPoint sunumu](docs/teslim/Finans_RAG_v2_Sunum.pptx)
 - [Ekran görüntülü kılavuz](docs/teslim/Finans_RAG_v2_Ekran_Goruntulu_Kilavuz.pdf)
-
-## Sunum ve kılavuz
-
-- [PowerPoint sunumu](docs/teslim/Finans_RAG_v2_Sunum.pptx)
-- [Ekran görüntülü kılavuz](docs/teslim/Finans_RAG_v2_Ekran_Goruntulu_Kilavuz.pdf)
